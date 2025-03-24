@@ -8,5 +8,6 @@ export const LayOut = () => {
     <NavBar/>
     <Outlet/>
     </>
+    //kjgbkjbkj
   )
 }
